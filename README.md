@@ -91,8 +91,4 @@ This project is licensed under the MIT License — see the [LICENSE](LICENSE) fi
 **Yasin Arafat Emon**
 Feel free to reach out: [GitHub profile](https://github.com/yasinarafathemon)
 
----
 
-Feel free to copy this into a `README.md` file at the root of your **Student Data Management** directory, and then adapt the sections (Tech Stack, Usage, Project Structure) to reflect exactly how your code is structured.
-
-Would you like me to **generate the README.md file with markdown formatting** and tailor it further (e.g., specify actual filenames, commands, screenshots)?
